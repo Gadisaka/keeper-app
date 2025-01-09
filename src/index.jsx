@@ -10,6 +10,7 @@ ReactDOM.render(<App />, document.getElementById("root"));
 //- Pass the new note back to the App.
 //- Add new note to an array.
 //- Take array and render seperate Note components for each item.
+//- January 9 2025
 
 //2. Implement the delete note functionality.
 //- Callback from the Note component to trigger a delete function.
